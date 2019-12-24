@@ -1,5 +1,5 @@
 Barba.Pjax.init();
-//Barba.Prefetch.init();
+Barba.Prefetch.init();
 
 /* アニメーションの関数を記述
 --------------------------------------------------*/
